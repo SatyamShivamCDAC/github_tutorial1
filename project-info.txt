@@ -1,4 +1,0 @@
-DBUSER - admin
-DBpassword - password
-
-Git Token - some@token#key
